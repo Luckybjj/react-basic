@@ -49,3 +49,4 @@ FirstApp.defaultProps = {
     subTitle: 'No hay subtitulo',
     name: 'Bryan Lagos'
 }
+
